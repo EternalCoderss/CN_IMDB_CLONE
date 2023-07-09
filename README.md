@@ -38,13 +38,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at [Click Here](https://ezio-24.github.io/ezio.github.io-Coding-Ninja-IMDB_CLONE/)
+Check out the live demo of the application at [Click Here](https://eternalcoderss.github.io/CN_IMDB_CLONE/)
 
 ## Authors
 
-- [@Anand](https://github.com/ezio-24)
+- [@Anand](https://github.com/EternalCoderss)
 
-## License
-
-This project is licensed under the MIT License -  [Click](https://github.com/ezio-24/ezio.github.io-Coding-Ninja-IMDB_CLONE/blob/main/LICENSE) here for details
 # CN_IMDB_CLONE
