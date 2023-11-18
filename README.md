@@ -42,6 +42,6 @@ Check out the live demo of the application at [Click Here](https://eternalcoders
 
 ## Authors
 
-- [@Anand](https://github.com/EternalCoderss)
+- [@Shivam](https://github.com/EternalCoderss)
 
 # CN_IMDB_CLONE
